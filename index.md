@@ -231,40 +231,6 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 
 <h2 id="materials" name = "materials">Tentative Schedule</h2>
 
-<table>
-<tr><td>Day 1</td><td>09:00</td><td>Welcome</td></tr>
-<tr><td></td><td>09:15</td><td>How Learning Works: The Importance of Practice</td></tr>
-<tr><td></td><td>10:20</td><td>How Learning Works: Expertise and Instruction</td></tr>
-<tr><td></td><td>11:10</td><td>Morning Coffee Break</td></tr>
-<tr><td></td><td>11:25</td><td>How Learning Works: Working Memory and Cognitive Load</td></tr>
-<tr><td></td><td>12:15</td><td>Building Teaching Skill: Getting Feedback</td></tr>
-<tr><td></td><td>12:35</td><td>Lunch Break</td></tr>
-<tr><td></td><td>13:35</td><td>Creating a Positive Learning Environment: Motivation and Demotivation</td></tr>
-<tr><td></td><td>14:40</td><td>Creating a Positive Learning Environment: Mindset</td></tr>
-<tr><td></td><td>15:20</td><td>Afternoon Coffee Break</td></tr>
-<tr><td></td><td>15:35</td><td>Building Teaching Skill: The Importance of Practice</td></tr>
-<tr><td></td><td>16:45</td><td>Wrap-Up and Homework for Tomorrow</td></tr>
-<tr><td></td><td>17:05</td><td>Finish</td></tr>
-<tr><td>Day 2</td><td>09:00</td><td>Welcome Back</td></tr>
-<tr><td></td><td>09:10</td><td>Building Teaching Skill: Lesson Study</td></tr>
-<tr><td></td><td>09:55</td><td>Building Teaching Skill: Live Coding</td></tr>
-<tr><td></td><td>10:55</td><td>Morning Coffee Break</td></tr>
-<tr><td></td><td>11:10</td><td>Building Teaching Skill: Performance Revised</td></tr>
-<tr><td></td><td>11:50</td><td>Lunch Break</td></tr>
-<tr><td></td><td>12:50</td><td>The Carpentries: Workshop Introductions</td></tr>
-<tr><td></td><td>14:00</td><td>The Carpentries: How We Operate</td></tr>
-<tr><td></td><td>15:05</td><td>Afternoon Coffee Break</td></tr>
-<tr><td></td><td>15:20</td><td>The Carpentries: Teaching Practices</td></tr>
-<tr><td></td><td>15:50</td><td>Afternoon Wrap-Up</td></tr>
-<tr><td></td><td>16:35</td><td>Post-training survey</td></tr>
-<tr><td></td><td>16:50</td><td>Finish</td></tr>
-</table>
-
-
-<hr/>
-
-<!--
-
 <div class="row">
   <div class="col-md-6">
     <h3>Day 1</h3>
@@ -302,8 +268,6 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
     </table>
   </div>
 </div>
-
--->
 
 <!--
   ETHERPAD
